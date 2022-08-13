@@ -50,3 +50,10 @@ a:hover {
   padding: 50px;
   font-weight: lighter;
 }
+#footer a {
+  color: lightgrey;
+  font-size: 25px;
+}
+#footer a:hover {
+  color: white;
+}
